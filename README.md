@@ -1,4 +1,5 @@
 # Infix-To-Postfix-Calculator
-Java program that gets infix expressions from input, converts them to postfix and prefix notation, and shows the result of evaluating the postfix expression. 
+In this calculator we used stack structure for converting infix expressions to postfix and prefix notation, then we used postfix to evaluate the result of the calculation.
 
-It runs on NetBeans
+The program runs on NetBeans.
+
