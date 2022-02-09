@@ -3,3 +3,8 @@ In this calculator we used stack structure for converting infix expressions to p
 
 The program runs on NetBeans.
 
+An example of running the program:
+
+
+![1](https://user-images.githubusercontent.com/45950266/153170784-3bec1060-2519-453f-9875-18562a0643ce.png)
+
