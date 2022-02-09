@@ -6,5 +6,5 @@ The program runs on NetBeans.
 An example of running the program:
 
 
-![1](https://user-images.githubusercontent.com/45950266/153170784-3bec1060-2519-453f-9875-18562a0643ce.png)
+![2](https://user-images.githubusercontent.com/45950266/153171005-26e6bc8f-851e-4f54-b82d-ca7168a02ca6.png)
 
